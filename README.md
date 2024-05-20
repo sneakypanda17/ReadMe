@@ -26,7 +26,6 @@ Hi there! I'm a passionate developer with a knack for creating innovative soluti
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sneakypanda17&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=sneakypanda17)]<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sneakypanda17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
